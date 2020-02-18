@@ -1,0 +1,16 @@
+p {
+    font-size: 13pt;
+    font-family: cursive;
+    margin: 2em;
+    max-width: 60em;
+}
+
+h1, h2, h3 {
+    font-family: times;
+    margin: auto;
+    width: 50%;
+}
+
+body {
+    background-color: #ffff99;
+}
